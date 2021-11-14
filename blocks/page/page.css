@@ -1,0 +1,17 @@
+.page{
+  background-color: #2A2C2F;
+  width: 100%;
+  padding-top: 28px;
+  padding-bottom: 24px;
+  margin: auto;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  font-family: 'Inter', 'Arial', sans-serif;
+}
+
+@media screen and (max-width:756px) {
+  .page{
+    padding-top: 16px;
+  }
+}

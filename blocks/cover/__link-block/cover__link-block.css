@@ -1,0 +1,25 @@
+.cover__link-block{
+  height: 740px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 1220px) {
+  .cover__link-block{
+    height: 640px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .cover__link-block{
+    height: 480px;
+  }
+}
+
+@media screen and (max-width: 756px) {
+  .cover__link-block{
+    height: 200px;
+  }
+}
