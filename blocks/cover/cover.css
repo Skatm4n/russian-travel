@@ -1,7 +1,7 @@
 .cover{
   position: relative;
   max-width: 1184px;
-  margin: 0 auto 0;
+  margin: 90px auto 0;
   background-image: url(../../images/cover__background.jpg);
   background-size: contain;
   background-repeat: no-repeat;
