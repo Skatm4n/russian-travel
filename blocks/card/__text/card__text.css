@@ -1,22 +1,22 @@
-.places__text{
+.card__text{
   grid-area: text;
   max-width: 484px;
 }
 
 @media screen and (max-width: 1220px) {
-  .places__text{
+  .card__text{
     max-width: 456px;
   }
 }
 
 @media screen and (max-width: 960px) {
-  .places__text{
+  .card__text{
     max-width: 352px;
   }
 }
 
 @media screen and (max-width: 756px) {
-  .places__text{
+  .card__text{
     max-width: 288px;
     margin: auto;
   }
